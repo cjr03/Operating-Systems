@@ -1,2 +1,2 @@
-# Operating-Systems-Labs
-Operating Systems Labs completed while attending Santa Clara University.
+# Operating Systems
+C programs written while studying Operating Systems.
